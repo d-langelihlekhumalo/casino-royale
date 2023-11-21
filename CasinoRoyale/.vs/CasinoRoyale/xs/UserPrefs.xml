@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{321B5F59-D122-4CC7-8213-72CD56FC7C4C}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CasinoRoyale/SplashScreen.resx">
+    <Files>
+      <File FileName="CasinoRoyale/SplashScreen.resx" Line="159" Column="10" />
+      <File FileName="CasinoRoyale/SplashScreen.cs" Line="25" Column="12" />
+      <File FileName="CasinoRoyale/SplashScreen.Designer.cs" />
+      <File FileName="CasinoRoyale/Program.cs" />
+      <File FileName="CasinoRoyale/classes/CommonControls.cs" />
+      <File FileName="CasinoRoyale/classes/ComputerResults.cs" />
+      <File FileName="CasinoRoyale/classes/Winner.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CasinoRoyale" expanded="True">
+            <Node name="CasinoRoyale" expanded="True">
+              <Node name="References" expanded="True" selected="True" />
+              <Node name="Packages" expanded="True" />
+              <Node name="textfile" expanded="True" />
+              <Node name="SplashScreen.cs" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.CasinoRoyale PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
